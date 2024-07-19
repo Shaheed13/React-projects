@@ -1,0 +1,24 @@
+.box{
+  background-color:rgb(124, 1, 124);
+  height: 260px;
+  color:orange;
+border-radius: 10px;
+ 
+}
+.pass{
+  width: 65%;
+  margin-left: 8rem;
+}
+.button{
+  background: orange;
+  color: white;
+}
+
+.range{
+ width: 180px;
+ margin-left: 8rem;
+}
+.len{
+font-size: large;
+font-style: oblique;
+}
